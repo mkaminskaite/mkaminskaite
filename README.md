@@ -1,16 +1,35 @@
-### Hi there 👋
+# Junior Data Scientist Portfolio
 
-<!--
-**mkaminskaite/mkaminskaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! I'm Migle Kaminskaite, a junior data scientist passionate about exploring and analyzing data to derive meaningful insights. This repository contains examples of my work and projects related to data science.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Data Analysis with R](project1/README.md)
+   - Conducted a comprehensive data analysis using R
+   - Explored and processed raw data, performed statistical analysis, and presented key findings
+   - Technologies used: R, Data Analysis
+   - Link to the project folder for more details
+
+### 2. [Exploratory Data Analysis with Visualization](project2/README.md)
+   - Conducted exploratory data analysis with a focus on data visualization techniques
+   - Utilized tools such as Tableau to create insightful visualizations
+   - Extracted meaningful patterns and trends from the data
+   - Technologies used: R, Data Analysis, Tableau
+   - Link to the project folder for more details
+
+## Skills
+
+- R
+- SQL
+- Data Analysis
+- Data Visualization 
+- Tableau
+
+## Education
+
+- MD, PhD in Medicine
+- Lithuanian University of Health Sciences
+
+## Contact
+
+Feel free to reach out to me at kaminskaite.migle@proton.me
